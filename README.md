@@ -4,7 +4,9 @@ The Cup O' Joy Café HTML/CSS project is a website design for a cozy café aimed
 
 # How to use
 1st : Click CODE button and download zip file.
+
 2nd : Right click on zip folder then click Extract all.
+
 3rd : Open CupOJoy folder in vscode.
 
 
